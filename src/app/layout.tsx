@@ -22,8 +22,8 @@ const leagueGothic = League_Gothic({
 });
 
 export const metadata: Metadata = {
-  title: "Lorenzo Sallons",
-  description: "Portfolio of Lorenzo Sallons, a web developer",
+  title: "Abhishek Gupta",
+  description: "Portfolio of Abhishek Gupta, a Full Stack developer",
 };
 
 export default function RootLayout({
