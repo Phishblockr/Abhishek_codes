@@ -9,7 +9,7 @@ Feel free to explore the codebase, review the documentation, and check out the l
 🚀 Built with **Next.js 15** and **TypeScript 5**  
 💨 Styled using **Tailwind CSS v4**   
 🎥 Animations powered by **Framer Motion** and **Lenis**  
-- **🌐 Live Demo:** [mysitii.vercel.app]
+- **🌐 Live Demo:** [https://mysitii.vercel.app]
 - **📧 Contact:** [amansg710@gmail.com]
 
 ## 🚀 Getting Started
